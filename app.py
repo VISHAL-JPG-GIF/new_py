@@ -7,4 +7,4 @@ print ("vishal")
 
 
 
-print ("data stor succ")
+print ("data stor succ
